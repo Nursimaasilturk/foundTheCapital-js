@@ -152,10 +152,6 @@ const wordList = [
     hint: "İrlanda'nın başkenti",
   },
   {
-    word: "dublin",
-    hint: " başkenti",
-  },
-  {
     word: "telaviv",
     hint: "İsrail'in başkenti",
   },
@@ -253,7 +249,7 @@ const wordList = [
   },
   {
     word: "muskat",
-    hint: "Umman başkenti",
+    hint: "Umman'ın başkenti",
   },
   {
     word: "islamabad",

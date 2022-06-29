@@ -31,7 +31,7 @@ randomWord();
 function initGame(e) {
   let key = e.target.value;
   if (
-    key.match(/[\p{Letter}\p{Mark}\s-]+/gu) &&
+    key.match(/[\p{Letter}\p{Mark}]+/gu) &&
     !incorrects.includes(` ${key}`) &&
     !corrects.includes(key)
   ) {
